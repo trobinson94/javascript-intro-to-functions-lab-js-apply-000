@@ -12,5 +12,6 @@ function logShout(string) {
 }
 
 function logWhisper(string) {
-  cons
+  const spy = 'hello'
+  console.log(spy)
 }
