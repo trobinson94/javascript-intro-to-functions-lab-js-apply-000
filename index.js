@@ -7,5 +7,6 @@ function whisper(string) {
 }
 
 function logShout(string) {
+  const spy = 'HELLO';
   console.log(shout)
 }
